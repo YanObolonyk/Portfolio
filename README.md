@@ -31,3 +31,16 @@ https://github.com/YanObolonyk/IntT_IDZ1
 
 Logging the requests done on the page to a dedicated MySQL table:
 https://github.com/YanObolonyk/IntT_IDZ2
+
+## Python
+Using Python's data structures: 
+https://github.com/YanObolonyk/Python_LB1
+
+Calculating and data extraction to the structure from file:
+https://github.com/YanObolonyk/Python_LB2
+
+API requests done with Python:
+https://github.com/YanObolonyk/Python_LB3
+
+OOP in Python, creating objects, methods with a CLI UI:
+https://github.com/YanObolonyk/Python_LB4
