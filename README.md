@@ -18,3 +18,15 @@ https://github.com/YanObolonyk/IntT_LB5
 
 PHP + Composer with SQL data extraction:
 https://github.com/YanObolonyk/IntT_LB6
+
+Dynamic page update via AJAX:
+https://github.com/YanObolonyk/IntT_LB7
+
+Simple Node.js messaging server:
+https://github.com/YanObolonyk/IntT_LB8
+
+Example of JSONP usage:
+https://github.com/YanObolonyk/IntT_IDZ1
+
+Logging the requests done on the page to a dedicated MySQL table:
+https://github.com/YanObolonyk/IntT_IDZ2
