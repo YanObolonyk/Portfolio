@@ -1,5 +1,5 @@
 # Portfolio
-Portfolio showing practical knowledge in variety of fields.
+Portfolio showing part of practical knowledge in variety of fields. Additional files as well as demonstrations are available by request.
 
 ## Web & Databases
 Plain HTML multilevel structures:
