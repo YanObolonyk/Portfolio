@@ -17,7 +17,7 @@ https://github.com/YanObolonyk/IntT_LB4
 PHP connected to MySQL database, data extraction to the webpage:
 https://github.com/YanObolonyk/IntT_LB5
 
-PHP + Composer with SQL data extraction:
+PHP + Composer with MongoDB connection:
 https://github.com/YanObolonyk/IntT_LB6
 
 Dynamic page update via AJAX:
